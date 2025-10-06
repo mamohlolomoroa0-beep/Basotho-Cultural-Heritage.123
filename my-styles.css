@@ -1,0 +1,108 @@
+.bgi{
+    margin: 0;
+    height:100vh;
+    background-image: url("images/hero.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 150px;
+
+ }
+
+ form{
+    border-radius:5px;
+    background-color: antiquewhite;
+    padding:20px;
+}
+label {display: block;}
+
+input[type=text],select{
+    width:80
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+nav {
+
+
+    background-color:aqua;
+      display:flex;
+       justify-content:space-between;
+       padding:18px;
+}
+    
+    nav{
+        background-color:aqua;
+        
+        
+    }
+    nav ul{
+        list-style:none;
+        display:flex;
+        margin-top:8px;
+
+    }
+
+    nav ul li a{
+        text-decoration: none;
+        color:blue;
+        margin:12px;
+        font-family:arial;
+    
+    }
+    nav ul a:hover{
+        color:brown;
+
+    }
+    .logo{
+        color:black;
+        font-weight:bold;
+        align-content: center;
+
+    
+    }
+    
+
+.hero-content {
+    color:white;
+    font-family:arial;
+    text-align: center;
+    padding: 20px;
+
+}
+button{
+    justify-content:center;
+    background-color:green;
+    margin-left: 400px;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    
+}
+button a{
+    align-content:center;
+    text-decoration: none;
+    color: white;
+    
+}
+
+button:hover{
+    transform:scale(1.1 );
+}
+
+/*traditional section only*/
+body{
+    background-color: lightblue;
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+.sebeto:hover{
+    transform: scale(1.05);
+}
+.bgi
+
+/*crafts & arts*/
+.arts-item{
+    color:aliceblue;
+}
